@@ -1,24 +1,5 @@
-/* Container holding the image and the text */
-. container {
-  position: relative;
+.text background {
   text-align: center;
-  color: white;
-}
-/* Bottom left text */
-.bottom-left {
-  position: absolute;
-  bottom: 8px;
-  left: 16px;
-}
-/* Top left text */
-.top-left{
-  position: absolute;
-  top: 8px;
-  left: 16px;
-}
-/* Top right text */
-.top-right {
-  position: absolute;
-  top: 8px;
-  right: 16px;
+  font-style: italic;
+  text-decoration: underline;
 }
