@@ -10,3 +10,9 @@
   bottom: 8px;
   left: 16px;
 }
+/* Top left text */
+.top-left{
+  position: absolute;
+  top: 8px;
+  left: 16px;
+}
